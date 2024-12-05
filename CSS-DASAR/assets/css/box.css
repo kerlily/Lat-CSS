@@ -1,1 +1,32 @@
+div{
+    color: rgb(42, 165, 48);
+    width: 300px;
+    border: 30px solid red;
+    /* padding: 30px;
+    margin: 20px; */
+    
+}
 
+div{
+    border-style: dotted double solid double;
+    border-width: 30px;
+    /* border-top-style: double ;
+    border-right-style: outset;
+    border-left-style:groove ;
+    border-bottom-style: dashed ; */
+    border-top-width: 20px;
+}
+
+div{
+    padding: 20px 10px 25px 16px;
+    /* padding-bottom: 20px;
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-left: 16px; */
+}
+
+div{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

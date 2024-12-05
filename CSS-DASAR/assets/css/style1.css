@@ -1,0 +1,39 @@
+h1,h2,h3{
+    color: rgb(216, 0, 0);
+    text-align: center;
+    font-weight: 900;
+    text-decoration:wavy underline rgb(255, 0, 0);
+    background-color: aqua;
+}
+
+button{
+    background-color: rgb(40, 42, 38);
+    color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 71, 71);
+
+}
+
+p{
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+*{
+    background-color: rgb(40, 40, 40);
+}
+
+span{
+    color: rgb(255, 255, 255);
+}
+#list2{
+    color: blue;
+}
+
+.mark{
+    background-color: aquamarine;
+    color: black;
+}

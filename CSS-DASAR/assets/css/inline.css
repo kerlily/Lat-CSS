@@ -1,0 +1,15 @@
+h1{
+    background-color: rgb(255, 127, 127);
+    border: 10px solid rgb(0, 0, 0);
+    width: 300px;
+    padding: 100px;
+    margin: 50px; 
+    display: inline-block ;
+}
+
+span{
+    border: 2px solid rgb(0, 0, 0);
+    width: 500px;
+    padding: 20px;
+    margin: 100px;
+}
